@@ -240,3 +240,7 @@ TAGS
 # Files generated when a patch is rejected
 *.orig
 *.rej
+
+# Training images
+intro-to-pytorch/Cat_Dog_data.zip
+intro-to-pytorch/Cat_Dog_data
